@@ -11,10 +11,10 @@ That didn't give satisfying results as it didn't account for the bonus as much a
 We also tried to direct the sorting of cars (in the initial approach) or rides (in the current approach) based on where most of them were in the map (You could think that as finding the center of mass in a plane if every car/ride on this plane accounted for the same mass). That didn't give us satisfying solutions either.
 
 # Hash Code Team:
-GeorgeLs            -     George Liontos
+https://github.com/georgeLs            -     George Liontos
 
-arisKoutsou         -     Aris Koutsouridis
+https://github.com/arisKoutsou         -     Aris Koutsouridis
 
-souperk             -     Kostas Alexopoulos
+https://github.com/souperk             -     Kostas Alexopoulos
 
-stefanos-baziotis   -     Stefanos Baziotis
+stefanos-baziotis                      -     Stefanos Baziotis
